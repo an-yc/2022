@@ -1370,13 +1370,13 @@ a {
   text-align: left;
 }
 .cid-t2fz6P30LP {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   background-image: url("../../../assets/images/wikicommons-sg-one-george-st-1600x1200.jpeg");
 }
 .cid-t2fz6P30LP .card-wrapper {
   background: #ffffff;
-  border-radius: 4px;
+  border-radius: 25px;
 }
 @media (max-width: 767px) {
   .cid-t2fz6P30LP .card-wrapper {
@@ -1411,7 +1411,7 @@ a {
 .cid-t2fMcg6iPx .card-wrapper {
   min-height: 220px;
   transition: all 0.3s;
-  border-radius: 4px;
+  border-radius: 10px;
   padding: 1rem;
   background: #ffffff;
   display: flex;
