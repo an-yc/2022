@@ -3959,6 +3959,24 @@ a {
 .cid-t2SgUYIYlg .mbr-section-title {
   text-align: center;
 }
+@media (min-width: 631px) {
+  .cid-t2SgUYIYlg .emoji {
+    max-width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    display: inline-block;
+    object-fit: contain;
+  }
+}
+@media (max-width: 630px) {
+  .cid-t2SgUYIYlg .emoji {
+    max-width: 25px;
+    height: 25px;
+    vertical-align: baseline;
+    display: inline-block;
+    object-fit: contain;
+  }
+}
 .cid-t2SgUYWJsm {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -4089,8 +4107,8 @@ a {
 }
 @media (min-width: 631px) {
   .cid-t2SgUZATfT .emoji {
-    max-width: 20px;
-    height: 20px;
+    max-width: 40px;
+    height: 40px;
     vertical-align: middle;
     display: inline-block;
     object-fit: contain;
@@ -4098,9 +4116,9 @@ a {
 }
 @media (max-width: 630px) {
   .cid-t2SgUZATfT .emoji {
-    max-width: 18px;
-    height: 18px;
-    vertical-align: middle;
+    max-width: 25px;
+    height: 25px;
+    vertical-align: baseline;
     display: inline-block;
     object-fit: contain;
   }
