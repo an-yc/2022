@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Linklaters.html",
+    "currentPage": "SeyfarthShaw.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -81,7 +81,7 @@
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-128x128.png",
-    "mbrsiteDomain": "8ujyhdrdpq",
+    "mbrsiteDomain": "k8t4ki2bpd",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -90,7 +90,7 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "witsec-white-label": true,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-J1PDL5L4HT\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-J1PDL5L4HT');\n</script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9J43NEQNP7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9J43NEQNP7');\n</script>"
   },
   "pages": {
     "index.html": {
