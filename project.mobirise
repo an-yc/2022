@@ -7223,8 +7223,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": 5,
-        "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/background3.jpeg"
+        "socialSharingUrl": ""
       },
       "components": [
         {
