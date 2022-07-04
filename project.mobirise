@@ -7218,12 +7218,13 @@
     "HoganLovells.html": {
       "settings": {
         "title": "Anissa Ng | Hogan Lovells TMT Associate Application",
-        "meta_descr": "Anissa Ng | Lawyer and Tech Enthusiast | Website for Hogan Lovells TMT Associate Application",
+        "meta_descr": "Anissa Ng | Website for Hogan Lovells TMT Associate Application",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 5,
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/background3.jpeg"
       },
       "components": [
         {
